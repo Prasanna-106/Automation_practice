@@ -1,2 +1,2 @@
-# Automation_practice_code
+# Automation_practice
 Automation practice related code added here
